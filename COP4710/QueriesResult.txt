@@ -1,0 +1,135 @@
+mysql> \. C:\Users\Riz\Documents\RislinDb.sql
+Query OK, 8 rows affected (0.07 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Database changed
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.06 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 10 rows affected (0.00 sec)
+Records: 10  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected (0.00 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected (0.00 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+Query OK, 5 rows affected (0.00 sec)
+Records: 5  Duplicates: 0  Warnings: 0
+
+Query OK, 6 rows affected (0.00 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+Query OK, 6 rows affected (0.00 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+Query OK, 10 rows affected (0.01 sec)
+Records: 10  Duplicates: 0  Warnings: 0
+
+Query OK, 11 rows affected (0.01 sec)
+Records: 11  Duplicates: 0  Warnings: 0
+
+mysql> \. C:\Users\Riz\Documents\queries.sql
++-----------------+
+| address         |
++-----------------+
+| 123 Fake st     |
+| 222 Not Real ln |
+| 54 Huey ct      |
+| 19 Anvulle rd   |
+| 22 Orange dr    |
++-----------------+
+5 rows in set (0.00 sec)
+
++-----------------+-----------+
+| address         | mlsNumber |
++-----------------+-----------+
+| 123 Fake st     |     54532 |
+| 222 Not Real ln |     35126 |
+| 54 Huey ct      |     22536 |
+| 19 Anvulle rd   |     52532 |
+| 22 Orange dr    |     11244 |
++-----------------+-----------+
+5 rows in set (0.00 sec)
+
++-----------------+
+| address         |
++-----------------+
+| 222 Not Real ln |
++-----------------+
+1 row in set (0.00 sec)
+
++-----------------+--------+
+| address         | price  |
++-----------------+--------+
+| 222 Not Real ln | 150000 |
++-----------------+--------+
+1 row in set (0.00 sec)
+
++------------+--------+
+| address    | price  |
++------------+--------+
+| 13 SW st   | 120000 |
+| 52 Gary rd |  80000 |
++------------+--------+
+2 rows in set (0.00 sec)
+
++--------------+---------+--------------+-------------+--------+
+| name         | agentid | phone        | dateStarted | firmid |
++--------------+---------+--------------+-------------+--------+
+| Miller Saint |     100 | 405-999-8574 | 1/1/2001    |   2210 |
+| Mark Colby   |     101 | 205-222-3456 | 1/2/2000    |   1023 |
+| Dave Frank   |     102 | 345-670-1258 | 2/3/2004    |   5589 |
+| Ruby Cross   |     103 | 456-781-0254 | 3/22/2002   |   2569 |
+| Sam Risen    |     104 | 567-898-7926 | 9/18/2000   |   4785 |
++--------------+---------+--------------+-------------+--------+
+5 rows in set (0.00 sec)
+
++-------------+
+| address     |
++-------------+
+| 123 Fake st |
+| 13 SW st    |
++-------------+
+2 rows in set (0.00 sec)
+
++--------------+-------------+
+| Agent        | Buyer       |
++--------------+-------------+
+| Mark Colby   | Mike Bole   |
+| Dave Frank   | Mike Bole   |
+| Mark Colby   | Lois Long   |
+| Miller Saint | Clark King  |
+| Mark Colby   | Clark King  |
+| Mark Colby   | Tony Cane   |
+| Ruby Cross   | Tony Cane   |
+| Mark Colby   | Jane Billow |
+| Sam Risen    | Jane Billow |
+| Mark Colby   | Tyler Tock  |
+| Casey Veggie | Tyler Tock  |
++--------------+-------------+
+11 rows in set (0.00 sec)
+
++-----------------+--------+
+| address         | price  |
++-----------------+--------+
+| 222 Not Real ln | 150000 |
++-----------------+--------+
+1 row in set (0.00 sec)
+
+mysql>

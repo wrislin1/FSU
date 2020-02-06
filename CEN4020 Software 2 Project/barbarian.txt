@@ -1,0 +1,23 @@
+Weapon and Armor Proficiency : A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields). : initial 
+
+Fast Movement (Ex) : A barbarian’s land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. : 1
+
+Illiteracy : Barbarians are the only characters who do not automatically know how to read and write. A barbarian may spend 2 skill points to gain the ability to read and write all languages he is able to speak. : 1
+
+Rage (Ex): A barbarian gains a +4 bonus to Strength and Constitution, and a +2 morale bonus on Will saves, but he takes a –2 penalty to Armor Class. The increase in Constitution increases the barbarian’s hit points by 2 points per level, but these hit points go away at the end of the rage. While raging, a barbarian cannot use any Charisma, Dexterity, or Intelligence-based skills (except for Balance/Escape Artist/Intimidate/and Ride), the Concentration skill, or any abilities that require patience or concentration, nor can he cast spells or activate magic items that require a command word, a spell trigger, or spell completion to function. He can't Combat Expertise, item creation feats, and metamagic feats. A fit of rage lasts for a number of rounds equal to 3 + the character’s improved Constitution modifier. A barbarian may end his rage. At the end of the rage, The barbarian becomes fatigued (–2 penalty to Strength, –2 penalty to Dexterity, can’t charge or run) for the duration of the current encounter. : 1
+
+Uncanny Dodge (Ex): At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught flat-footed or struck by an invisible attacker. However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead. : 2
+
+Trap Sense (Ex): Starting at 3rd level, a barbarian gains a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise by +1 every three barbarian levels thereafter (6th, 9th, 12th, 15th, and 18th level). Trap sense bonuses gained from multiple classes stack. : 3
+
+Improved Uncanny Dodge (Ex): At 5th level and higher, a barbarian can no longer be flanked. This defense denies a rogue the ability to sneak attack the barbarian by flanking him, unless the attacker has at least four more rogue levels than the target has barbarian levels. If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum level a rogue must be to flank the character. : 5
+
+Damage Reduction (Ex): At 7th level, a barbarian gains Damage Reduction. Subtract 1 from the damage the barbarian takes each time he is dealt damage from a weapon or a natural attack. At 10th level, and every three barbarian levels thereafter (13th, 16th, and 19th level), this damage reduction rises by 1 point. Damage reduction can reduce damage to 0 but not below 0. : 7
+
+Greater Rage (Ex): At 11th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3. The penalty to AC remains at –2. : 11
+
+Indomitable Will (Ex): While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage. : 14
+
+Tireless Rage (Ex): At 17th level and higher, a barbarian no longer becomes fatigued at the end of his rage. : 17
+
+Mighty Rage (Ex): At 20th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4. The penalty to AC remains at –2. : 20
